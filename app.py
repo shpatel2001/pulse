@@ -111,7 +111,7 @@ if uploaded_file is not None:
         ai_output = response.choices[0].message["content"]
 
         # Results Section
-        # st.markdown('<div class="card">', unsafe_allow_html=True)
+        st.markdown('<div class="card">', unsafe_allow_html=True)
         st.markdown('<div class="section-header">Insights</div>', unsafe_allow_html=True)
         st.markdown(f'<div class="result-text">{ai_output}</div>', unsafe_allow_html=True)
-        # st.markdown('</div>', unsafe_allow_html=True)
+        st.markdown('</div>', unsafe_allow_html=True)
