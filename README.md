@@ -53,5 +53,6 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 _Add screenshots to a `/screenshots` folder and reference them here:_
 
 ```markdown
-![Upload Screen](D/upload.png)
-![Insights Screen](screenshots/insights.png)
+![Upload Screen](screenshots/screenshot1.png)
+![Insights Screen](screenshots/screenshot2.png)
+
