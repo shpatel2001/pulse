@@ -13,7 +13,7 @@ Pulse is a lightweight tool that transforms raw customer reviews into clear, act
 
 ---
 
-## 🌱 Why Pulse Matters for Small Businesses
+##  Why Pulse Matters for Small Businesses
 
 Small businesses collect feedback constantly—through receipts, Google reviews, Square receipts, and in‑store conversations—but most owners don’t have the time or tools to analyze it. They often face:
 
@@ -32,13 +32,13 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 👉 **Live app:** `https://pulse-review.streamlit.app/`  
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload a CSV containing customer reviews  
 - Automatic extraction and cleaning of review text  
@@ -48,7 +48,7 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 
 ---
 
-## 🖼️ Screenshots
-
-<img width="877" height="908" alt="screenshot2" src="https://github.com/user-attachments/assets/93188d69-0996-42ba-8649-ce86ad654807" />
+##  Screenshots
 <img width="998" height="477" alt="screenshot1" src="https://github.com/user-attachments/assets/ea606142-7b97-402c-ac85-70428eef6467" />
+<img width="877" height="908" alt="screenshot2" src="https://github.com/user-attachments/assets/93188d69-0996-42ba-8649-ce86ad654807" />
+
