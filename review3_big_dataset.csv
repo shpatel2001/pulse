@@ -1,98 +1,98 @@
-date,rating,segment,review
-2025-09-01,4,Dine-in,The food was great but the wait time was long.
-2025-09-02,5,Returning customer,Loved the staff super friendly!
-2025-09-03,3,Dine-in,Prices were too high for the portion size.
-2025-09-04,4,Dine-in,The ambiance was amazing but service was slow.
-2025-09-05,4,Takeout,The pasta tasted fresh but the portion felt small for the price.
-2025-09-06,3,Dine-in,Our server was kind but seemed overwhelmed and forgot our drinks.
-2025-09-07,5,Local resident,The restaurant was clean and cozy, really loved the atmosphere.
-2025-09-08,2,Dine-in,Food came out cold even though we waited almost 40 minutes.
-2025-09-09,5,Dine-in,The desserts were incredible—best cheesecake I’ve had in a while.
-2025-09-10,3,Dine-in,Music was a bit too loud, made it hard to talk.
-2025-09-11,5,Returning customer,Staff handled a busy night really well and stayed friendly.
-2025-09-12,3,Dine-in,The burger was delicious but the fries were soggy.
-2025-09-13,2,Dine-in,We waited 20 minutes just to be seated even with a reservation.
-2025-09-14,4,Dine-in,Great value during lunch hours but dinner prices feel steep.
-2025-09-15,5,Dine-in,The new menu items are fantastic, especially the grilled salmon.
-2025-09-16,3,Dine-in,Service felt rushed and we didn’t get checked on often.
-2025-09-17,5,Dine-in,The outdoor seating area is beautiful and relaxing.
-2025-09-18,4,Dine-in,My order was wrong at first but they fixed it quickly and apologized.
-2025-09-19,4,Dine-in,Drinks were amazing but took too long to arrive.
-2025-09-20,4,Dine-in,Overall good experience but the wait times need improvement.
-2025-09-21,5,Takeout,Pickup was fast and the food was still hot when I got home.
-2025-09-22,2,Delivery,Delivery took over an hour and the food was lukewarm.
-2025-09-23,4,Delivery,Driver was polite and the packaging was secure.
-2025-09-24,5,Returning customer,Always consistent and delicious.
-2025-09-25,3,Dine-in,The salad was fresh but lacked seasoning.
-2025-09-26,4,Dine-in,Good service and tasty food.
-2025-09-27,5,Local resident,My favorite spot in the neighborhood.
-2025-09-28,2,Dine-in,The steak was overcooked and dry.
-2025-09-29,4,Dine-in,The appetizers were fantastic.
-2025-09-30,3,Dine-in,Service was okay but nothing special.
-2025-10-01,5,First-time customer,First visit and I was impressed!
-2025-10-02,4,Dine-in,The soup was flavorful and comforting.
-2025-10-03,3,Dine-in,The sandwich was average.
-2025-10-04,5,Dine-in,The chef came out to greet us—nice touch.
-2025-10-05,2,Dine-in,The table was sticky and not cleaned properly.
-2025-10-06,4,Dine-in,Good portion sizes and fair pricing.
-2025-10-07,5,Returning customer,Always a pleasant experience.
-2025-10-08,3,Dine-in,The fries were under-seasoned.
-2025-10-09,4,Dine-in,The chicken was juicy and well-cooked.
-2025-10-10,5,Dine-in,Best brunch spot in town.
-2025-10-11,2,Dine-in,The server forgot our order entirely.
-2025-10-12,4,Dine-in,The drinks menu is excellent.
-2025-10-13,5,Dine-in,The dessert presentation was beautiful.
-2025-10-14,3,Dine-in,The pasta was a bit too salty.
-2025-10-15,4,Dine-in,The staff was attentive and kind.
-2025-10-16,5,Local resident,Love the seasonal menu changes.
-2025-10-17,2,Dine-in,The food lacked flavor.
-2025-10-18,4,Dine-in,The ambiance is perfect for date night.
-2025-10-19,5,Dine-in,The chef’s special was outstanding.
-2025-10-20,3,Dine-in,The burger bun was stale.
-2025-10-21,4,Dine-in,The salad dressing was delicious.
-2025-10-22,5,Returning customer,Always consistent quality.
-2025-10-23,2,Dine-in,The service was extremely slow.
-2025-10-24,4,Dine-in,The tacos were flavorful and fresh.
-2025-10-25,5,Dine-in,The staff made us feel welcome.
-2025-10-26,3,Dine-in,The pizza crust was too chewy.
-2025-10-27,4,Dine-in,The wings were crispy and tasty.
-2025-10-28,5,Dine-in,The latte art was adorable.
-2025-10-29,2,Dine-in,The soup was cold.
-2025-10-30,4,Dine-in,The ribs were tender and flavorful.
-2025-11-01,5,Dine-in,The service was exceptional.
-2025-11-02,3,Dine-in,The pasta was average.
-2025-11-03,4,Dine-in,The bread was warm and fresh.
-2025-11-04,5,Dine-in,The cocktails were amazing.
-2025-11-05,2,Dine-in,The food took too long to arrive.
-2025-11-06,4,Dine-in,The salad was crisp and refreshing.
-2025-11-07,5,Dine-in,The staff was very accommodating.
-2025-11-08,3,Dine-in,The burger was okay.
-2025-11-09,4,Dine-in,The fries were perfectly crispy.
-2025-11-10,5,Returning customer,Always a great experience.
-2025-11-11,2,Dine-in,The steak was under-seasoned.
-2025-11-12,4,Dine-in,The pasta sauce was rich and flavorful.
-2025-11-13,5,Dine-in,The dessert was heavenly.
-2025-11-14,3,Dine-in,The chicken was dry.
-2025-11-15,4,Dine-in,The soup was comforting.
-2025-11-16,5,Dine-in,The staff was friendly and attentive.
-2025-11-17,2,Dine-in,The pizza was burnt.
-2025-11-18,4,Dine-in,The tacos were delicious.
-2025-11-19,5,Dine-in,The ambiance was cozy.
-2025-11-20,3,Dine-in,The salad was bland.
-2025-11-21,4,Dine-in,The burger was juicy.
-2025-11-22,5,Dine-in,The drinks were refreshing.
-2025-11-23,2,Dine-in,The service was slow.
-2025-11-24,4,Dine-in,The pasta was cooked perfectly.
-2025-11-25,5,Dine-in,The dessert was fantastic.
-2025-11-26,3,Dine-in,The fries were soggy.
-2025-11-27,4,Dine-in,The chicken was flavorful.
-2025-11-28,5,Dine-in,The staff was very welcoming.
-2025-11-29,2,Dine-in,The soup lacked seasoning.
-2025-11-30,4,Dine-in,The ribs were tender.
-2025-12-01,5,Dine-in,The service was excellent.
-2025-12-02,3,Dine-in,The pasta was too salty.
-2025-12-03,4,Dine-in,The bread was fresh.
-2025-12-04,5,Dine-in,The cocktails were great.
-2025-12-05,2,Dine-in,The food took too long.
-2025-12-06,4,Dine-in,The salad was crisp.
-2025-12-07,5,Dine-in,The staff was friendly.
+review
+The food was great but the wait time was long.
+Loved the staff, super friendly!
+Prices were too high for the portion size.
+The ambiance was amazing but service was slow.
+The pasta tasted fresh but the portion felt small for the price.
+Our server was kind but seemed overwhelmed and forgot our drinks.
+The restaurant was clean and cozy, really loved the atmosphere.
+Food came out cold even though we waited almost 40 minutes.
+The desserts were incredible—best cheesecake I’ve had in a while.
+Music was a bit too loud, made it hard to talk.
+Staff handled a busy night really well and stayed friendly.
+The burger was delicious but the fries were soggy.
+We waited 20 minutes just to be seated even with a reservation.
+Great value during lunch hours but dinner prices feel steep.
+The new menu items are fantastic, especially the grilled salmon.
+Service felt rushed and we didn’t get checked on often.
+The outdoor seating area is beautiful and relaxing.
+My order was wrong at first but they fixed it quickly and apologized.
+Drinks were amazing but took too long to arrive.
+Overall good experience but the wait times need improvement.
+Pickup was fast and the food was still hot when I got home.
+Delivery took over an hour and the food was lukewarm.
+Driver was polite and the packaging was secure.
+Always consistent and delicious.
+The salad was fresh but lacked seasoning.
+Good service and tasty food.
+My favorite spot in the neighborhood.
+The steak was overcooked and dry.
+The appetizers were fantastic.
+Service was okay but nothing special.
+First visit and I was impressed!
+The soup was flavorful and comforting.
+The sandwich was average.
+The chef came out to greet us—nice touch.
+The table was sticky and not cleaned properly.
+Good portion sizes and fair pricing.
+Always a pleasant experience.
+The fries were under-seasoned.
+The chicken was juicy and well-cooked.
+Best brunch spot in town.
+The server forgot our order entirely.
+The drinks menu is excellent.
+The dessert presentation was beautiful.
+The pasta was a bit too salty.
+The staff was attentive and kind.
+Love the seasonal menu changes.
+The food lacked flavor.
+The ambiance is perfect for date night.
+The chef’s special was outstanding.
+The burger bun was stale.
+The salad dressing was delicious.
+Always consistent quality.
+The service was extremely slow.
+The tacos were flavorful and fresh.
+The staff made us feel welcome.
+The pizza crust was too chewy.
+The wings were crispy and tasty.
+The latte art was adorable.
+The soup was cold.
+The ribs were tender and flavorful.
+The service was exceptional.
+The pasta was average.
+The bread was warm and fresh.
+The cocktails were amazing.
+The food took too long to arrive.
+The salad was crisp and refreshing.
+The staff was very accommodating.
+The burger was okay.
+The fries were perfectly crispy.
+Always a great experience.
+The steak was under-seasoned.
+The pasta sauce was rich and flavorful.
+The dessert was heavenly.
+The chicken was dry.
+The soup was comforting.
+The staff was friendly and attentive.
+The pizza was burnt.
+The tacos were delicious.
+The ambiance was cozy.
+The salad was bland.
+The burger was juicy.
+The drinks were refreshing.
+The service was slow.
+The pasta was cooked perfectly.
+The dessert was fantastic.
+The fries were soggy.
+The chicken was flavorful.
+The staff was very welcoming.
+The soup lacked seasoning.
+The ribs were tender.
+The service was excellent.
+The pasta was too salty.
+The bread was fresh.
+The cocktails were great.
+The food took too long.
+The salad was crisp.
+The staff was friendly.
