@@ -34,7 +34,7 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 
 ## 🚀 Live Demo
 
-👉 **Live app:** `https://your-streamlit-url-here`  
+👉 **Live app:** `https://pulse-review.streamlit.app/`  
 
 ---
 
@@ -53,5 +53,5 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 _Add screenshots to a `/screenshots` folder and reference them here:_
 
 ```markdown
-![Upload Screen](screenshots/upload.png)
+![Upload Screen](D/upload.png)
 ![Insights Screen](screenshots/insights.png)
