@@ -3,39 +3,53 @@ import pandas as pd
 import os
 from groq import Groq
 
+# Initialize Groq client
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 st.title("Pulse – AI Customer Feedback Analyzer")
 st.write("Upload customer reviews and get instant insights.")
 
+# File uploader
 uploaded = st.file_uploader("Upload a CSV file with a column named 'review'", type=["csv"])
 
 if uploaded:
-    df = pd.read_csv(uploaded)
-    all_reviews = " ".join(df['review'].astype(str).tolist())
+    # Read CSV safely with flexible parsing
+    df = pd.read_csv(uploaded, dtype=str)
 
-    if st.button("Analyze Feedback"):
-        with st.spinner("Analyzing reviews..."):
+    # Normalize column names (lowercase, strip spaces)
+    df.columns = df.columns.str.strip().str.lower()
 
-            prompt = f"""
-            You are analyzing customer feedback for a small business.
+    # Validate presence of review column
+    if "review" not in df.columns:
+        st.error("Your CSV must contain a column named 'review'.")
+    else:
+        # Extract review text safely
+        all_reviews = "\n".join(df["review"].dropna().astype(str).tolist())
 
-            Reviews:
-            {all_reviews}
+        # Button to trigger analysis
+        if st.button("Analyze Feedback"):
+            with st.spinner("Analyzing reviews..."):
 
-            Provide:
-            1. A summary of key themes
-            2. Top 3 complaints
-            3. Top 3 compliments
-            4. 3 actionable improvements the business should make
-            5. A weekly health report (tone, trends, risks)
-            """
+                prompt = f"""
+                You are analyzing customer feedback for a small business.
 
-            response = client.chat.completions.create(
-                 model="llama-3.1-8b-instant",
-                 messages=[{"role": "user", "content": prompt}]
-            )
+                Analyze the following customer reviews and provide:
 
+                1. Key themes (3–5)
+                2. Top complaints
+                3. Top compliments
+                4. Actionable recommendations
+                5. A short weekly health summary
 
-            st.subheader("AI Insights")
-            st.write(response.choices[0].message.content)
+                Reviews:
+                {all_reviews}
+                """
+
+                response = client.chat.completions.create(
+                    model="llama-3.1-8b-instant",
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.3
+                )
+
+                st.subheader("AI Insights")
+                st.write(response.choices[0].message["content"])
