@@ -50,9 +50,5 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 
 ## 🖼️ Screenshots
 
-_Add screenshots to a `/screenshots` folder and reference them here:_
-
-```markdown
-![Upload Screen](screenshots/screenshot1.png)
-![Insights Screen](screenshots/screenshot2.png)
-
+<img width="877" height="908" alt="screenshot2" src="https://github.com/user-attachments/assets/93188d69-0996-42ba-8649-ce86ad654807" />
+<img width="998" height="477" alt="screenshot1" src="https://github.com/user-attachments/assets/ea606142-7b97-402c-ac85-70428eef6467" />
