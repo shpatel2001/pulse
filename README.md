@@ -34,7 +34,12 @@ This aligns with Square’s mission: empowering small businesses with simple, po
 
 ##  Live Demo
 
-👉 **Live app:** `https://pulse-review.streamlit.app/`  
+👉 <p align="center">
+  <a href="https://pulse-review.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-4CAF50?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 
